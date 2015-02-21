@@ -1,0 +1,175 @@
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-21 13:51:18 -0800
+Processing by SayController#hello as HTML
+  Rendered say/hello.html.erb within layouts/application (1.4ms)
+Compiled jquery.js  (3ms)  (pid 47032)
+Compiled jquery_ujs.js  (0ms)  (pid 47032)
+Compiled bootstrap.js  (0ms)  (pid 47032)
+Compiled bootstrap.min.js  (0ms)  (pid 47032)
+Compiled npm.js  (0ms)  (pid 47032)
+Compiled welcome.js  (293ms)  (pid 47032)
+Compiled application.js  (340ms)  (pid 47032)
+Completed 200 OK in 385ms (Views: 384.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-21 13:51:19 -0800
+Processing by SayController#hello as HTML
+  Rendered say/hello.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 6ms (Views: 5.3ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-21 13:51:19 -0800
+Served asset /jquery.js - 200 OK (5ms)
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.0.0.1 at 2015-02-21 13:51:19 -0800
+Served asset /bootstrap.min.js - 200 OK (1ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2015-02-21 13:51:19 -0800
+Served asset /bootstrap.js - 200 OK (3ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-21 13:51:19 -0800
+Served asset /jquery_ujs.js - 200 OK (1ms)
+
+
+Started GET "/assets/npm.js?body=1" for 127.0.0.1 at 2015-02-21 13:51:19 -0800
+Served asset /npm.js - 200 OK (1ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2015-02-21 13:51:19 -0800
+Served asset /welcome.js - 200 OK (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-21 13:51:19 -0800
+Served asset /application.js - 200 OK (29ms)
+
+
+Started GET "/assets/newapp-icon.png" for 127.0.0.1 at 2015-02-21 13:51:19 -0800
+Served asset /newapp-icon.png - 200 OK (3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-21 13:52:10 -0800
+Processing by SayController#hello as HTML
+  Rendered say/hello.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 31ms (Views: 30.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-21 13:52:10 -0800
+Processing by SayController#hello as HTML
+  Rendered say/hello.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 7ms (Views: 6.8ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-21 13:52:10 -0800
+Served asset /jquery.js - 200 OK (2ms)
+
+
+Started GET "/assets/npm.js?body=1" for 127.0.0.1 at 2015-02-21 13:52:10 -0800
+Served asset /npm.js - 200 OK (1ms)
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.0.0.1 at 2015-02-21 13:52:10 -0800
+Served asset /bootstrap.min.js - 200 OK (30ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-21 13:52:10 -0800
+Served asset /jquery_ujs.js - 200 OK (7ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2015-02-21 13:52:10 -0800
+Served asset /welcome.js - 200 OK (1ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2015-02-21 13:52:10 -0800
+Served asset /bootstrap.js - 200 OK (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-21 13:52:10 -0800
+Served asset /application.js - 200 OK (6ms)
+
+
+Started GET "/assets/newapp-icon.png" for 127.0.0.1 at 2015-02-21 13:52:10 -0800
+Served asset /newapp-icon.png - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-21 13:52:51 -0800
+Processing by SayController#hello as HTML
+  Rendered say/hello.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 8ms (Views: 7.4ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-21 13:52:51 -0800
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.0.0.1 at 2015-02-21 13:52:51 -0800
+Served asset /bootstrap.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2015-02-21 13:52:51 -0800
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/npm.js?body=1" for 127.0.0.1 at 2015-02-21 13:52:51 -0800
+Served asset /npm.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2015-02-21 13:52:51 -0800
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-21 13:52:51 -0800
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-21 13:52:51 -0800
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/newapp-icon.png" for 127.0.0.1 at 2015-02-21 13:52:51 -0800
+Served asset /newapp-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/afdc.jpg" for 127.0.0.1 at 2015-02-21 13:52:51 -0800
+Served asset /afdc.jpg - 200 OK (3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-21 13:53:09 -0800
+Processing by SayController#hello as HTML
+  Rendered say/hello.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 8ms (Views: 7.2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-21 13:53:09 -0800
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-21 13:53:09 -0800
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2015-02-21 13:53:09 -0800
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.0.0.1 at 2015-02-21 13:53:09 -0800
+Served asset /bootstrap.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-21 13:53:09 -0800
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/npm.js?body=1" for 127.0.0.1 at 2015-02-21 13:53:09 -0800
+Served asset /npm.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2015-02-21 13:53:09 -0800
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/afdc.jpg" for 127.0.0.1 at 2015-02-21 13:53:09 -0800
+Served asset /afdc.jpg - 304 Not Modified (0ms)
